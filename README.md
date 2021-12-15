@@ -17,12 +17,12 @@ Mathematical package programs, using program tools in geometry and algebra inclu
 | Material | Download URL|
 |----------|---------------|
 | Maple Basic 1 | [Download](./materials/basic_1.pdf) |
-| Maple Basic 2 | Download |
-| Maple Basic 3 | Download |
-| Maple Reference  | Download |
+| Maple Basic 2 | [Download](./materials/basic_2.pdf) |
+| Maple Basic 3 | [Download](./materials/basic_3.pdf) |
+| Maple Reference  | [Download](./materials/reference.pdf) |
 
 ## LAB Problems and Solutions
 
 | LAB | Download URL |
 |-----|--------------|
-| LAB 1 | Problems |
+| LAB 1 | [Problems](./materials/lab_01.pdf) |
