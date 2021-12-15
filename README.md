@@ -16,7 +16,7 @@ Mathematical package programs, using program tools in geometry and algebra inclu
 
 | Material | Download URL|
 |----------|---------------|
-| Maple Basic 1 | Download |
+| Maple Basic 1 | [Download](./materials/basic_1.pdf) |
 | Maple Basic 2 | Download |
 | Maple Basic 3 | Download |
 | Maple Reference  | Download |
