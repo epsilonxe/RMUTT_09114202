@@ -1,8 +1,8 @@
 # Mathematical Software
 Repository for RMUTT 09114202: Mathematical Software
----
+
 Lecturer: Ratthaprom Promkam, Dr.rer.nat
----
+
 ![Maplesoft](./materials/maple_img.jpg)
 
 ## Course Description
