@@ -22,12 +22,12 @@ Mathematical package programs, using program tools in geometry and algebra inclu
 
 ## เอกสารประกอบการสอน
 
-| Material | Download URL|
-|----------|---------------|
-| Maple Basic 1 | [Download](./materials/basic_1.pdf) |
-| Maple Basic 2 | [Download](./materials/basic_2.pdf) |
-| Maple Basic 3 | [Download](./materials/basic_3.pdf) |
-| Maple Reference  | [Download](./materials/reference.pdf) |
+| Material | Topic | Download URL|
+|----------|-------|---------------|
+| Maple B1 | Demonstration | [Download](./materials/basic_1.pdf) |
+| Maple B2 | Algebraic Manipulation | [Download](./materials/basic_2.pdf) |
+| Maple B3 | Solving Equations | [Download](./materials/basic_3.pdf) |
+| Maple Reference |  | [Download](./materials/reference.pdf) |
 
 ## ปฏิบัติการ
 
