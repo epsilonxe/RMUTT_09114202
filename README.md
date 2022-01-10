@@ -27,7 +27,9 @@ Mathematical package programs, using program tools in geometry and algebra inclu
 
 ## LAB Problems and Solutions
 
-| LAB | Download URL |
-|-----|--------------|
-| LAB 01 | [Problems](./materials/lab_01.pdf) and [Solutions](./materials/lab_sol_01.pdf) |
-| LAB 02 | [Problems](./materials/lab_02.pdf) |
+| LAB | Description | Download URL |
+|-----|-------------|--------------|
+| LAB 01 | Introduction | [Problems](./materials/lab_01.pdf) and [Solutions](./materials/lab_sol_01.pdf) |
+| LAB 02 | Solving Equations | [Problems](./materials/lab_02.pdf) and [Solutions](./materials/lab_sol_02.pdf) |
+| LAB 03 | Plotting 1 | [Problems](./materials/lab_03.pdf)  |
+| LAB 04 | Plotting 2 | [Problems](./materials/lab_04.pdf)  |
