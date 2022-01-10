@@ -1,22 +1,26 @@
 # Mathematical Software
-Repository for RMUTT 09114202: Mathematical Software
+Repository for RMUTT 09114202: โปรแกรมสำเร็จรูปทางคณิตศาสตร์ (Mathematical Software)
 
 Lecturer: Ratthaprom Promkam, Dr.rer.nat
 
 ![Maplesoft](./materials/maple_img.jpg)
 
-## Course Description
+## คำอธิบายรายวิชา
+
+การใช้งานโปรแกรมสำเร็จรูปทางคณิตศาสตร์ การใช้โปรแกรมสำเร็จรูปในการคำนวณเชิงเรขาคณิตและการคำนวณเชิงพีชคณิต รวมทั้งแคลคูลัสและสมการเชิงอนุพันธ์ การเขียนกราฟ การประยุกต์ใช้โปรแกรมสำเร็จรูปทางคณิตศาสตร์กับงานด้านต่าง ๆ
 
 Mathematical package programs, using program tools in geometry and algebra including calculus and differential equation, implementation for graph drawing, applications of mathematical package programs in relates fields
 
-## Schedules
+## กำหนดการในชั้นเรียน
 
 |Activity|  Date | Time | Location |
 |--------|-------|------|----------|
 |Lecture| Wednesday | 8.00 - 10.00 | ST1905 |
 |Lab| Wednesday | 10.00 - 12.00 | ST1905 |
+|Mid-Term Exam| Wednesday 19 JAN 2022 | 09.00 - 12.00 | ST1905 |
+|Final Exam| Wednesday 30 APR 2022 | 09.00 - 12.00 | ST1905 |
 
-## Class Materials
+## เอกสารประกอบการสอน
 
 | Material | Download URL|
 |----------|---------------|
@@ -25,7 +29,7 @@ Mathematical package programs, using program tools in geometry and algebra inclu
 | Maple Basic 3 | [Download](./materials/basic_3.pdf) |
 | Maple Reference  | [Download](./materials/reference.pdf) |
 
-## LAB Problems and Solutions
+## ปฏิบัติการ
 
 | LAB | Topic | Download URL |
 |-----|-------------|--------------|
@@ -33,3 +37,11 @@ Mathematical package programs, using program tools in geometry and algebra inclu
 | LAB 02 | Solving Equations | [Problems](./materials/lab_02.pdf) and [Solutions](./materials/lab_sol_02.pdf) |
 | LAB 03 | Plotting 1 | [Problems](./materials/lab_03.pdf)  |
 | LAB 04 | Plotting 2 | [Problems](./materials/lab_04.pdf)  |
+
+## เอกสารอ้างอิง
+
+1. Bernard V Liengme. (2019). Maple: A Primer (Concise Edition). OP Concise Physics.
+2. Jonathan M. Borwein and Matthew P. Skerritt. (2011). An Introduction to Modern Mathematical Computing: With Maple. Springer: New York.
+3. William P. Fox and William C. Bauldry. (2019). Advanced Problem Solving with Maple: A First Course. CRC Press.
+4. Søren Eilers and Rune Johansen. (2017). Introduction to Experimental Mathematics. Cambridge University Press.
+5. Ian Thompson. (2016). Understanding Maple. Cambridge University Press.
