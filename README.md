@@ -41,8 +41,9 @@ Mathematical package programs, using program tools in geometry and algebra inclu
 
 ## Software and Installation Guide
 
-1. [Maple 2020 - Setup](https://drive.google.com/file/d/11zvG-1iqSBToGiBIuauCx2MB2lU4t_Md/view)
-2. [Setup Guide Video](https://www.youtube.com/watch?v=-lr35U6hyEw)
+1. [Maple 2020 - Setup](https://drive.google.com/file/d/11zvG-1iqSBToGiBIuauCx2MB2lU4t_Md/view): ไฟล์ติดตั้งโปรแกรม Maple 2020 บนระบบปฏิบัติการ Windows 10/11 แบบ 64Bit เท่านั้น (หลังจากดาวน์โหลดแล้วให้ทำการ Extract File ด้วย WinRAR หรือ 7-Zip)
+2. [Setup Guide Video](https://www.youtube.com/watch?v=-lr35U6hyEw): วีดีโอแสดงวิธิการแครกโปรแกรมเพื่อใช้งาน Maple 2020 เวอร์ชันสมบูรณ์
+
 
 ## เอกสารอ้างอิง
 
