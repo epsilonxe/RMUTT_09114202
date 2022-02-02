@@ -38,6 +38,12 @@ Mathematical package programs, using program tools in geometry and algebra inclu
 | LAB 03 | Plotting 1 | [Problems](./materials/lab_03.pdf)  |
 | LAB 04 | Plotting 2 | [Problems](./materials/lab_04.pdf)  |
 
+
+## Software and Installation Guide
+
+1. [Maple 2020 - Setup](https://drive.google.com/file/d/11zvG-1iqSBToGiBIuauCx2MB2lU4t_Md/view)
+2. [Setup Guide Video](https://www.youtube.com/watch?v=-lr35U6hyEw)
+
 ## เอกสารอ้างอิง
 
 1. Bernard V Liengme. (2019). Maple: A Primer (Concise Edition). OP Concise Physics.
